@@ -1,0 +1,6 @@
+[submodule "fin-app-web"]
+	path = fin-app-web
+	url = https://github.com/buemura/fin-app-web
+[submodule "fin-app-backend"]
+	path = fin-app-backend
+	url = https://github.com/buemura/fin-app-backend.git

@@ -4,3 +4,6 @@
 [submodule "fin-app-backend"]
 	path = fin-app-backend
 	url = https://github.com/buemura/fin-app-backend.git
+[submodule "fin-app-cron"]
+	path = fin-app-cron
+	url = https://github.com/buemura/fin-app-cron.git

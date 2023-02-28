@@ -7,6 +7,10 @@ Personal financial app to manage:
 - Investments
 - Transactions
 
+## Architecture
+
+![alt text](docs/schema.png)
+
 ## Demonstration
 
 ![alt text](docs/demo.png)

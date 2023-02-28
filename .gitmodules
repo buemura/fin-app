@@ -7,3 +7,6 @@
 [submodule "fin-app-cron"]
 	path = fin-app-cron
 	url = https://github.com/buemura/fin-app-cron.git
+[submodule "stock-scrape-service"]
+	path = stock-scrape-service
+	url = https://github.com/buemura/stock-scrape-service.git
